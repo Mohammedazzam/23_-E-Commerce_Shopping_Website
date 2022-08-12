@@ -144,3 +144,112 @@ h2 {
   -ms-transition: all ease 0.5s;
   -o-transition: all ease 0.5s;
 }
+
+/* social */
+
+.social {
+  position: fixed;
+  left: 30px;
+  top: 50%;
+  transform: translate(-50%);
+  -webkit-transform: translate(-50%);
+  -moz-transform: translate(-50%);
+  -ms-transform: translate(-50%);
+  -o-transform: translate(-50%);
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  background-color: #ffffff;
+  box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.2);
+  padding: 5px 0px;
+  z-index: 1;
+}
+.social a {
+  padding: 20px 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.social a i {
+  color: rgba(39, 39, 39, 0.8);
+}
+
+.social a:hover .fa-facebook-f {
+  color: #3b5998;
+}
+.social a:hover .fa-twitter {
+  color: #00acee;
+}
+.social a:hover .fa-instagram {
+  color: #3f729b;
+}
+.social a:hover .fa-youtube {
+  color: #ff0000;
+}
+.social a i {
+  color: rgba(39, 39, 39, 0.8);
+}
+
+.social a:hover .fa-facebook-f {
+  color: #3b5998;
+}
+.social a:hover .fa-twitter {
+  color: #00acee;
+}
+.social a:hover .fa-instagram {
+  color: #3f729b;
+}
+.social a:hover .fa-youtube {
+  color: #ff0000;
+}
+.social a i {
+  color: rgba(39, 39, 39, 0.8);
+}
+
+.social a:hover .fa-facebook-f {
+  color: #3b5998;
+}
+.social a:hover .fa-twitter {
+  color: #00acee;
+}
+.social a:hover .fa-instagram {
+  color: #3f729b;
+}
+.social a:hover .fa-youtube {
+  color: #ff0000;
+}
+.social a i {
+  color: rgba(39, 39, 39, 0.8);
+}
+
+.social a:hover .fa-facebook-f {
+  color: #3b5998;
+}
+.social a:hover .fa-twitter {
+  color: #00acee;
+}
+.social a:hover .fa-instagram {
+  color: #3f729b;
+}
+.social a:hover .fa-youtube {
+  color: #ff0000;
+}
+.social a i {
+  color: rgba(39, 39, 39, 0.8);
+}
+
+.social a:hover .fa-facebook-f {
+  color: #3b5998;
+}
+.social a:hover .fa-twitter {
+  color: #00acee;
+}
+.social a:hover .fa-instagram {
+  color: #3f729b;
+}
+.social a:hover .fa-youtube {
+  color: #ff0000;
+}
